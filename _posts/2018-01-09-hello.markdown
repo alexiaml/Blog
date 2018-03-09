@@ -2,5 +2,10 @@
 title: "Hello world"
 description: "This text shows up in search engine previews"
 ---
+<h3>Hed Level Three</h3>
 
-This is a post. Rename the file and replace it with a real post.
+Below is an alternate way to type this. (For a h3 specifically)
+
+### Hed level three (but lowercase)
+
+This is a post. Rename the file and replace it with a *real* post.

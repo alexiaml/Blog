@@ -9,3 +9,15 @@ Below is an alternate way to type this. (For a h3 specifically)
 ### Hed level three (but lowercase)
 
 This is a post. Rename the file and replace it with a *real* post.
+
+#### Ingredients
+
+- Hydrochloric acid, 2000 mL
+- Two hazelnuts, crushed
+- Extract of squirrel musk
+- Flour to taste
+
+#### Method
+
+1. Burn the hazelnuts.
+2. Order takeout.

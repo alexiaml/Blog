@@ -27,10 +27,11 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 /* start project-specifc styles below this line */
 
 body {
-	font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	line-height: 1.5em;
 	color: #222;
+	background-color: #C3ECFF;
 }
 
 /*	Generally, you will only want one container element in
@@ -46,6 +47,98 @@ body {
 	width: 90%;
 	max-width: 1200px;
 	padding: 2em;
-	border: 5px solid #eee;
+	border: 1px solid none;
+	background-color: #fff;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+	grid-gap: 1rem;
 }
 
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+	font-family: 'Montserrat', sans-serif;
+}
+
+a {
+
+}
+
+a:link {
+	color: #E83A55;
+}
+
+.siteheader {
+	background: #eee;
+	height: 250px;
+	grid-column: 2/13;
+}
+
+.ptitle{
+	font-family: 'Montserrat', sans-serif;
+	grid-column: 2/9;
+}
+
+.pinfo{
+	margin-top: -20px;
+	margin-left: 15px;
+	margin-bottom: 10px;
+	font-size: 13px;
+	grid-column: 2/9;
+}
+
+.homeb{
+	font-size: 1.15em;
+	font-family: 'Montserrat', sans-serif;
+	margin-bottom: -10px;
+	text-transform: uppercase;
+	grid-column: 2/9;
+}
+
+.homeb a:link {
+	color: #E83A55;
+	text-decoration: none;
+}
+
+.homeb a:hover {
+	color: #353A55;
+}
+
+.postdis {
+	font-size: 1.15em;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.postdis a:link {
+	text-decoration: ;
+
+}
+
+.postdis a:hover {
+	color: #353A55;
+
+}
+
+.content{
+	padding: 1em;
+	background-color: #eee;
+	grid-column: 2/9;
+}
+
+
+.hcontent{
+	grid-column: 2/9;
+}
+
+.sidebar{
+	height:420px;
+	padding: 5px;
+	margin-top: 25px;
+	font-size: 13.5px;
+	border: 1px solid none;
+	background-color: #eee;
+	grid-column: 10/13;
+	grid-row: 2/6;
+}

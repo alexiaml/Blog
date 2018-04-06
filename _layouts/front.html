@@ -13,9 +13,13 @@
 	<!-- Load styles -->
 	<!-- For production, combine all of the stylesheets -->
 	<link rel="stylesheet" href="{{ site.baseurl }}/css/sitewide.css">
+	<link rel="stylesheet" href="../css/sitewide.css">
 	
 	<!-- pull in webfonts -->
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+	 <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
+	 <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet"> 
 
 </head>
 <body>
@@ -24,20 +28,57 @@
 	<!-- In general, you should have only one container per page. -->
 	<div class="container">
 
+		<div class="siteheader">
+
         <h1>{{ site.title }}</h1>
+
+    	</div>
+
+    	<div class="sidebar">
+    		Maecenas congue porta auctor. Donec ut aliquam metus. Morbi condimentum gravida purus nec tempor. Suspendisse potenti. Aenean pretium, eros at molestie efficitur, lorem ligula molestie magna, egestas blandit urna ante eu ante. Donec sit amet ipsum scelerisque, tempor sem nec, lacinia ligula. Nam hendrerit auctor pretium. Praesent finibus consequat porttitor. Praesent diam nisl, ullamcorper rutrum justo vitae, maximus dapibus ante. Nulla malesuada felis id pellentesque finibus. Sed id pulvinar magna. Cras vitae hendrerit odio. Ut elementum elementum odio. Fusce quis varius elit, et ultrices ex. 
+    	</div>
+
+        <div class="hcontent">
 
         {{ body }}
 
         {% for post in site.posts %}
         	<article>
-        		<h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
+        		<div class="postdis">
+
+        			<h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
+
+        		</div>
+        		
         		<p>{{ post.date | date: "%A, %B %-d, %Y" }}</p>
         		{{ post.teaser }}        
         	</article>
         {% endfor %}
 
+        {% for post in site.posts %}
+        	<article>
+        		<div class="postdis">
+        			<h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
+        		</div>
+        		<p>{{ post.date | date: "%A, %B %-d, %Y" }}</p>
+        		{{ post.teaser }}        
+        	</article>
+        {% endfor %}
+
+{% for post in site.posts %}
+        	<article>
+        		<div class="postdis">
+        			<h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
+        		</div>
+        		<p>{{ post.date | date: "%A, %B %-d, %Y" }}</p>
+        		{{ post.teaser }}        
+        	</article>
+        {% endfor %}
+
+    	</div>
 
 	</div><!-- end container -->
 	
 </body>
 </html>
+

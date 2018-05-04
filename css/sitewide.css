@@ -140,6 +140,7 @@ a:link {
 }
 
 .hsidebar{
+	height:200px;
 	padding: 5px;
 	margin-top: 25px;
 	font-size: 13.5px;
@@ -150,11 +151,12 @@ a:link {
 }
 
 .sidebar{
+	height: 200px;
 	padding: 5px;
-	margin-top: 25px;
+	margin-top: -55px;
 	font-size: 13.5px;
 	border: 1px solid none;
 	background-color: #eee;
 	grid-column: 10/13;
-	grid-row: 4/5;
+	grid-row: 5/5;
 }

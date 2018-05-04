@@ -56,12 +56,12 @@ body {
 
 h1 {
     font-family: 'Montserrat', sans-serif;
-	line-height: 1.65em;
+	line-height: 1.50em;
 }
 
 h2{
 	font-family: 'Montserrat', sans-serif;
-	line-height: 1.65em;
+	line-height: 1.50em;
 }
 
 a {
@@ -74,7 +74,6 @@ a:link {
 
 .siteheader {
 	background-image: url('../img/header.jpg');
-	background-image-width: 50%;
 	height: 250px;
 	grid-column: 2/13;
 	color: #fff;

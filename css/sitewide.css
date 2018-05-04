@@ -72,6 +72,7 @@ a:link {
 
 .siteheader {
 	background-image: url('../img/header.jpg');
+	background-image-width: 50%;
 	height: 250px;
 	grid-column: 2/13;
 	color: #fff;
@@ -138,6 +139,16 @@ a:link {
 	grid-row: 2/2;
 }
 
+.hsidebar{
+	padding: 5px;
+	margin-top: 25px;
+	font-size: 13.5px;
+	border: 1px solid none;
+	background-color: #eee;
+	grid-column: 10/13;
+	grid-row: 2/2;
+}
+
 .sidebar{
 	padding: 5px;
 	margin-top: 25px;
@@ -145,5 +156,5 @@ a:link {
 	border: 1px solid none;
 	background-color: #eee;
 	grid-column: 10/13;
-	grid-row: 3/4;
+	grid-row: 4/5;
 }

@@ -56,12 +56,12 @@ body {
 
 h1 {
     font-family: 'Montserrat', sans-serif;
-	line-height: 1.75em;
+	line-height: 1.65em;
 }
 
 h2{
 	font-family: 'Montserrat', sans-serif;
-	line-height: 1.75em;
+	line-height: 1.65em;
 }
 
 a {
@@ -83,8 +83,8 @@ a:link {
 .sitetitle{
 	color: #fff;
 	padding-top: 20px;
-	padding-left: 20px;
-	font-size: 1.75em;
+	padding-left: 70px;
+	font-size: 1.68em;
 }
 
 .ptitle{

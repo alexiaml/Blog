@@ -1,0 +1,6 @@
+---
+title: "Humor in Web Design"
+description: Why One Should Incorporate Humor Into Web Design
+---
+
+I never thought about humor being used as a tactic to make information more engaging or easy to approach but [this article's](https://www.smashingmagazine.com/2017/06/connecting-users-humor-web-design/) does an excellent job of describing when and when not to use humor and how to do it right.

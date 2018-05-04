@@ -162,10 +162,9 @@ a:link {
 .sidebar{
 	height: 160px;
 	padding: 5px;
-
 	font-size: 13.5px;
 	border: 1px solid none;
 	background-color: #eee;
 	grid-column: 10/13;
-	grid-row: 5/5;
+	grid-row: 2/2;
 }

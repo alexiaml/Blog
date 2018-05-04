@@ -81,9 +81,9 @@ a:link {
 
 .sitetitle{
 	color: #fff;
-	padding-top: 20px;
-	padding-left: 70px;
-	font-size: 1.68em;
+	padding-top: 5px;
+	padding-left: 60px;
+	font-size: 1.60em;
 }
 
 .ptitle{
@@ -161,7 +161,7 @@ a:link {
 .sidebar{
 	height: 175px;
 	padding: 5px;
-	margin-top: -205px;
+	margin-top: -250px;
 	font-size: 13.5px;
 	border: 1px solid none;
 	background-color: #eee;

@@ -160,6 +160,7 @@ a:link {
 }
 
 .sidebar{
+	margin-top: 20px;
 	height: 150px;
 	padding: 5px;
 	font-size: 13.5px;

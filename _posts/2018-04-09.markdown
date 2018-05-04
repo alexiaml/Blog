@@ -1,7 +1,5 @@
 ---
-title: "One Day This Will Be a New Post"
+title: "UX Design"
 ---
 
-A link!
-
-[A random link!](Http://startrek.com)
+I had been unsure of what exactly UX design is and [this article](https://www.creativebloq.com/features/why-graphic-designers-need-to-master-ux) explains it well. There is even a comparison to the Bauhaus because "they taught students to eliminate the idea of the individual, and to focus on the productivity of design instead,”

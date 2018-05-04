@@ -1,0 +1,6 @@
+---
+title: "How Moving Forward Prompts Questions"
+description: Using Ethics In Web Design
+---
+As the web changes over time, improving day by day in design, usability, and accessibility, there are and have been web users that seek to exploit others. For me, the use of AD Blocker extensions was to avoid any malware or spyware ads that could pop up on some sites that I was less familiar with. [This article's](https://www.smashingmagazine.com/2018/03/using-ethics-in-web-design/) questions many different components to ethics in web design today and the future.
+

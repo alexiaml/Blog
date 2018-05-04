@@ -71,7 +71,7 @@ a:link {
 }
 
 .siteheader {
-	background-image: url("/img/header.jpg");
+	background-image: url("img/header.jpg");
 	height: 250px;
 	grid-column: 2/13;
 	color: #fff;

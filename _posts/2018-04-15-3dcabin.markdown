@@ -1,0 +1,6 @@
+---
+title: "3-D Printed Cabin"
+description: 3-D Printed Tiles 
+---
+
+Testing new materials in order to design and create [3D printed structures](https://www.dezeen.com/2018/04/12/emerging-objects-3d-printed-backyard-cabin-tiles-succulents-oakland-california/).

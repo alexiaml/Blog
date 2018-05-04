@@ -134,12 +134,11 @@ a:link {
 }
 
 .sidebar{
-
 	padding: 5px;
 	margin-top: 25px;
 	font-size: 13.5px;
 	border: 1px solid none;
 	background-color: #eee;
 	grid-column: 10/13;
-	grid-row: 2/6;
+	grid-row: 2/3;
 }

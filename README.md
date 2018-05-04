@@ -1,5 +1,3 @@
-# web1 self-publishing
+#Self-publishing Project
 
-hello@imaginaryterrain.com
-
-[Students: edit this file!]
+Alexia's Blog

@@ -149,7 +149,7 @@ a:link {
 }
 
 .hsidebar{
-	height:160px;
+	height:150px;
 	padding: 5px;
 	margin-top: 25px;
 	font-size: 13.5px;
@@ -160,7 +160,7 @@ a:link {
 }
 
 .sidebar{
-	height: 160px;
+	height: 150px;
 	padding: 5px;
 	font-size: 13.5px;
 	border: 1px solid none;

@@ -71,7 +71,7 @@ a:link {
 }
 
 .siteheader {
-	background-image: url('/img/header.jpg');
+	background-image: url('../img/header.jpg');
 	height: 250px;
 	grid-column: 2/13;
 	color: #fff;
@@ -80,7 +80,7 @@ a:link {
 .ptitle{
 	font-family: 'Montserrat', sans-serif;
 	grid-column: 2/9;
-	grid-row: 2/2;
+	grid-row: 3/3;
 }
 
 .pinfo{
@@ -89,7 +89,7 @@ a:link {
 	margin-bottom: 10px;
 	font-size: 13px;
 	grid-column: 2/9;
-	grid-row: 3/3;
+	grid-row: 4/4;
 }
 
 .homeb{
@@ -98,6 +98,7 @@ a:link {
 	margin-bottom: -10px;
 	text-transform: uppercase;
 	grid-column: 2/9;
+	grid-row: 2/2;
 }
 
 .homeb a:link {
@@ -134,7 +135,7 @@ a:link {
 
 .hcontent{
 	grid-column: 2/9;
-	grid-row: 4/4
+	grid-row: 2/2;
 }
 
 .sidebar{
@@ -144,5 +145,5 @@ a:link {
 	border: 1px solid none;
 	background-color: #eee;
 	grid-column: 10/13;
-	grid-row: 2/3;
+	grid-row: 3/4;
 }

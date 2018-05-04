@@ -1,3 +1,3 @@
 #Self-publishing Project
 
-Alexia's Blog
+[Alexia's Blog]

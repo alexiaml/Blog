@@ -29,7 +29,7 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 body {
     font-family: 'Roboto', sans-serif;
 	font-size: 16px;
-	line-height: 1.5em;
+	line-height: 1.45em;
 	color: #222;
 	background-color: #C3ECFF;
 }
@@ -56,12 +56,12 @@ body {
 
 h1 {
     font-family: 'Montserrat', sans-serif;
-	line-height: 1.45em;
+	line-height: 1.40em;
 }
 
 h2{
 	font-family: 'Montserrat', sans-serif;
-	line-height: 1.45em;
+	line-height: 1.40em;
 }
 
 a {
@@ -148,7 +148,7 @@ a:link {
 }
 
 .hsidebar{
-	height:175px;
+	height:160px;
 	padding: 5px;
 	margin-top: 25px;
 	font-size: 13.5px;
@@ -159,7 +159,7 @@ a:link {
 }
 
 .sidebar{
-	height: 175px;
+	height: 160px;
 	padding: 5px;
 	margin-top: -250px;
 	font-size: 13.5px;

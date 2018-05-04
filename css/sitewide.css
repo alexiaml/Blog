@@ -71,9 +71,10 @@ a:link {
 }
 
 .siteheader {
-	background-image: url("header.jpg");
+	background-image: url("/img/header.jpg");
 	height: 250px;
 	grid-column: 2/13;
+	color: #fff;
 }
 
 .ptitle{
@@ -133,7 +134,7 @@ a:link {
 }
 
 .sidebar{
-	height:420px;
+
 	padding: 5px;
 	margin-top: 25px;
 	font-size: 13.5px;

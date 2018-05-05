@@ -3,4 +3,4 @@ title: "The Truth About Mobile Interface"
 description: Mobile Interface Myths You Should Ignore
 ---
 
-[This article](https://www.smashingmagazine.com/2017/11/mobile-interface-myths/) explains the different kinds of menus that can be used on a site, both web and mobile, and how to handle issues associated with some. 
+[This article](https://www.smashingmagazine.com/2017/11/mobile-interface-myths/) attempts to dispell the myths that surround creation of mobile interfaces. Knowing about what work goes into mobile design because projects in this class have made use of responsive design, it is very clear to me that there is at least equal effort to make a good design.  

@@ -1,5 +1,5 @@
 ---
-title: "Five(5) Design Tips"
+title: "Five Design Tips"
 description: Tips On Becoming A Successful Designer
 ---
 

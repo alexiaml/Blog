@@ -1,0 +1,7 @@
+---
+title: "A Follow Up On Accessibility Design: Color"
+description: Accessibility For Users With Color Blindness
+---
+
+[This article](https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/) shows more specifics on how to make sites accessible for users with color blindness.
+

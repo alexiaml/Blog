@@ -81,8 +81,8 @@ a:link {
 
 .sitetitle{
 	color: #fff;
-	padding-top: 5px;
-	padding-left: 60px;
+	padding-top: -10px;
+	padding-left: 40px;
 	font-size: 1.60em;
 	text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
 }

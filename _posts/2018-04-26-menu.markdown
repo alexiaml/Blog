@@ -1,6 +1,6 @@
 ---
 title: "Menu Systems"
-description: Make Links Readable
+description: Building Accessible Menu Systems
 ---
 
 [This article](https://www.smashingmagazine.com/2017/11/building-accessible-menu-systems/) explains the different kinds of menus that can be used on a site, both web and mobile, and how to handle issues associated with some. 

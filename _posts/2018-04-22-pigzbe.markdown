@@ -1,0 +1,6 @@
+---
+title: "Piggy-Wallet"
+description: Pigzbe Teaches Kids About Cryptocurrency
+---
+
+Despite still being unsure as to what cryptocurrency is and its function, the design for the app Pigzbe, from pictures alone, still looks a bit complicated for children to use and understand. [This article](https://www.dezeen.com/2018/04/22/pigzbe-app-aims-to-teach-children-about-cryptocurrency/) explains it.

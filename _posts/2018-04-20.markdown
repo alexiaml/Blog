@@ -1,1 +1,5 @@
-
+---
+title: "Approaches to becoming a Designer"
+description: Formal Education versus Bootcamp
+---
+I am a history major that is seriously considering becoming a web developer, but I am not looking to get a Graphic Design degree. [This article](https://www.smashingmagazine.com/2017/09/design-career-best-education/) describes the ups and downs of both formal education and bootcamp and for someone like me who is not really in a place for either, still can use this article to help me make some decisions throughout my time in school and after, because I am minoring in Graphic Design and taking classes like these. 

@@ -1,0 +1,6 @@
+---
+title: "Ghost Buttons"
+description: Are Ghost Buttons Still Relevant?
+---
+
+To my eye, there has never been a real difference between ghosts buttons and solid buttons. I have understood them to both function in the same way and recognize as pretty much the same. [This article](https://www.smashingmagazine.com/2018/01/ghost-button-design/) explains the pros and cons of ghost buttons.
